@@ -26,9 +26,7 @@
 
     "isolatedModules": true,
 
-    "jsx": "preserve",
-
-    "strict": "true"
+    "jsx": "preserve"
 
   },
 
